@@ -1,4 +1,6 @@
 # BIOS26211-Final-Project
+Project is completed for course BIOS 26211 in winter 2023. 
+
 Collaborators: 
 - Victor Han
 - Cynthia Wang
